@@ -51,6 +51,9 @@
   <a href="mailto:singhkaran89621@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
   </a>
+   <a href="https://leetcode.com/Karan_singh_rana/" target="_blank">
+    <img src="https://repository-images.githubusercontent.com/187772096/6e9a8300-945d-11e9-9b2a-24e76419ca2a" height="45" alt="gmail logo"  />
+  </a>
 </div>
 
 
